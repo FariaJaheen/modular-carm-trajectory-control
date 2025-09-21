@@ -16,8 +16,20 @@ In this repository the **MATLAB/Simulink codebase** is hosted for 2nd of my PhD 
 - **9-DoF Modular System**
   - 6 C-arm joints: Lateral, Vertical, Wigwag, Horizontal, Tilt, Orbital  
   - 3 Surgical Table joints: Vertical, Longitudinal, Transverse
+ 
+- **8-DoF Modular System**
+  - 6 C-arm joints: Lateral, Vertical, Wigwag, Horizontal, Tilt, Orbital  
+  - 2 Surgical Table joints: Vertical, Longitudinal
 
----
+- **7-DoF Modular System**
+  - 6 C-arm joints: Lateral, Vertical, Wigwag, Horizontal, Tilt, Orbital  
+  - 1 Surgical Table joints: Vertical
+ 
+- **6-DoF Modular System**
+  - 6 C-arm joints: Lateral, Vertical, Wigwag, Horizontal, Tilt, Orbital 
+
+- **5-DoF Modular System**
+  - 5 C-arm joints: Vertical, Wigwag, Horizontal, Tilt, Orbital 
 
 ---
 
