@@ -4,7 +4,7 @@ In this repository the **MATLAB/Simulink codebase** is hosted for 2nd of my PhD 
 
 ---
 
-## ✨ Key Features
+## Key Features
 - **Trajectory Planning**
   - Minimum Jerk, Minimum Snap, Polynomial, and Trapezoidal profiles
   - Smooth position, velocity, and acceleration generation across all joints
@@ -21,33 +21,7 @@ In this repository the **MATLAB/Simulink codebase** is hosted for 2nd of my PhD 
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 ### Requirements
 - MATLAB **R2023a or later**  
-- Toolboxes: *Robotics System Toolbox*, *Simulink*
-
-   ┌───────────────────┐
-   │  Trajectory Gen.  │
-   │  (Min Jerk, Snap, │
-   │  Poly, Trapezoid) │
-   └─────────┬─────────┘
-             │
-             ▼
-   ┌───────────────────┐
-   │  Desired Profiles │
-   │  (q, dq, ddq)     │
-   └─────────┬─────────┘
-             │
-             ▼
-   ┌───────────────────┐
-   │  Computed Torque  │
-   │  Control (CTC)    │
-   └─────────┬─────────┘
-             │
-             ▼
-   ┌──────────────────────────┐
-   │  Outputs:                │
-   │  - Position Tracking     │
-   │  - Velocity & Accel.     │
-   │  - Torque Profiles       │
-   └──────────────────────────┘
+- Toolboxes: *Robotics System Toolbox*, *Simulink*.
